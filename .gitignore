@@ -1,0 +1,7 @@
+**/temp
+
+**/.DS_Store
+**/.dumpster
+**/__pycache__
+**/.idea
+**/.ipynb_checkpoints
